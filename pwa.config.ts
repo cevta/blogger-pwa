@@ -35,7 +35,7 @@ export default {
     // OneSignal is not available if you are not using cloudflare workers
     oneSignalEnabled: true,
     oneSignalConfig: {
-      appId: '8914e8c3-e191-45a1-b192-708b8b6d4b67',
+      appId: 'bc16f8f3-1e84-4079-b681-cdba4ddbaa27',
       allowLocalhostAsSecureOrigin: true,
     },
   },

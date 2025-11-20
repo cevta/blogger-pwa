@@ -1,14 +1,14 @@
 {
-  "name": "SWAGYO",
+  "name": "Yuzu Tips",
   "id": "/",
-  "short_name": "Swagyo",
-  "description": "The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping Crypto related and many more",
+  "short_name": "Yuzu Tips",
+  "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://www.swagyo.com/?utm_source=homescreen",
-  "scope": "https://www.swagyo.com/",
+  "start_url": "https://www.yuzutips.site/?utm_source=homescreen",
+  "scope": "https://www.yuzutips.site/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#121212",
@@ -119,7 +119,7 @@
       "name": "SWAGYO NEWS",
       "short_name": "News",
       "description": "The best news updates with tech & information.",
-      "url": "https://www.swagyo.com/search/label/News?utm_source=homescreen",
+      "url": "https://www.yuzutips.site/search/label/News?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -131,7 +131,7 @@
       "name": "SWAGYO SHOP",
       "short_name": "Shop",
       "description": "The Best Shopping 🛒 with offers & deals.",
-      "url": "https://www.swagyo.com/search/label/Shop?utm_source=homescreen",
+      "url": "https://www.yuzutips.site/search/label/Shop?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",

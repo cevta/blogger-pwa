@@ -116,9 +116,9 @@
   ],
   "shortcuts": [
     {
-      "name": "SWAGYO NEWS",
-      "short_name": "News",
-      "description": "The best news updates with tech & information.",
+      "name": "Yuzu Tips",
+      "short_name": "Yuzu Tips",
+      "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
       "url": "https://www.yuzutips.site/search/label/News?utm_source=homescreen",
       "icons": [
         {
@@ -128,9 +128,9 @@
       ]
     },
     {
-      "name": "SWAGYO SHOP",
-      "short_name": "Shop",
-      "description": "The Best Shopping 🛒 with offers & deals.",
+      "name": "Yuzu Tips",
+      "short_name": "Yuzu Tips",
+      "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
       "url": "https://www.yuzutips.site/search/label/Shop?utm_source=homescreen",
       "icons": [
         {

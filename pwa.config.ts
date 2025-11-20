@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'SWAGYO',
-  shortName: 'Swagyo',
-  description: 'The Best Website where you can find Blogger Widgets, Tech News, Tech Reviews, News & Shopping Crypto related and many more',
+  name: 'Yuzu Tips',
+  shortName: 'Yuzu Tips',
+  description: 'Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#121212',
@@ -18,15 +18,15 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'SWAGYO NEWS',
-      shortName: 'News',
-      description: 'The best news updates with tech & information.',
+      name: 'Yuzu Tips',
+      shortName: 'Yuzu Tips',
+      description: 'Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.',
       url: '/search/label/News?utm_source=homescreen',
     },
     {
-      name: 'SWAGYO SHOP',
-      shortName: 'Shop',
-      description: 'The Best Shopping 🛒 with offers & deals.',
+      name: 'Yuzu Tips',
+      shortName: 'Yuzu Tips',
+      description: 'Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.',
       url: '/search/label/Shop?utm_source=homescreen',
     },
   ],
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.swagyo.com',
+  origin: 'https://www.yuzutips.site/',
 } satisfies Config;

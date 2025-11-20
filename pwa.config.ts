@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'Yuzu Tips',
-  shortName: 'Yuzu Tips',
-  description: 'Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.',
+  name: 'Cevta',
+  shortName: 'Cevta',
+  description: 'Cevta - Thủ Thuật Đa Nền Tảng',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#121212',
@@ -18,15 +18,15 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Yuzu Tips',
-      shortName: 'Yuzu Tips',
-      description: 'Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.',
+      name: 'Cevta',
+      shortName: 'Cevta',
+      description: 'Cevta - Thủ Thuật Đa Nền Tảng',
       url: '/search/label/News?utm_source=homescreen',
     },
     {
-      name: 'Yuzu Tips',
-      shortName: 'Yuzu Tips',
-      description: 'Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.',
+      name: 'Cevta',
+      shortName: 'Cevta',
+      description: 'Cevta - Thủ Thuật Đa Nền Tảng',
       url: '/search/label/Shop?utm_source=homescreen',
     },
   ],
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.yuzutips.site/',
+  origin: 'https://www.cevta.site/',
 } satisfies Config;

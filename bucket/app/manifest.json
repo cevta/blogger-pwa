@@ -1,8 +1,8 @@
 {
-  "name": "Yuzu Tips",
+  "name": "Cevta",
   "id": "/",
-  "short_name": "Yuzu Tips",
-  "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
+  "short_name": "Cevta",
+  "description": "Cevta - Thủ Thuật Đa Nền Tảng",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
@@ -116,9 +116,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Yuzu Tips",
-      "short_name": "Yuzu Tips",
-      "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
+      "name": "Cevta",
+      "short_name": "Cevta",
+      "description": "Cevta - Thủ Thuật Đa Nền Tảng",
       "url": "/search/label/News?utm_source=homescreen",
       "icons": [
         {
@@ -128,9 +128,9 @@
       ]
     },
     {
-      "name": "Yuzu Tips",
-      "short_name": "Yuzu Tips",
-      "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
+      "name": "Cevta",
+      "short_name": "Cevta",
+      "description": "Cevta - Thủ Thuật Đa Nền Tảng",
       "url": "/search/label/Shop?utm_source=homescreen",
       "icons": [
         {

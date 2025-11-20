@@ -1,5 +1,5 @@
 /**
- * This is auto generated metadata file, generated at: Thu Nov 20 2025 16:54:19 GMT+0000 (Coordinated Universal Time)
+ * This is auto generated metadata file, generated at: Thu Nov 20 2025 17:02:57 GMT+0000 (Coordinated Universal Time)
  * Prevent making any changes here
  */
 
@@ -27,5 +27,5 @@ export interface Metadata {
 }
 
 export const metadata = JSON.parse(
-  '{"github":{"repository":"cevta/blogger-pwa","branch":"main"},"pwa":{"oneSignalEnabled":true,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"bc16f8f3-1e84-4079-b681-cdba4ddbaa27","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"W6gYKjRi9dlq9qJmy3J-x"}}',
+  '{"github":{"repository":"cevta/blogger-pwa","branch":"main"},"pwa":{"oneSignalEnabled":true,"oneSignalSDK":"https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js","oneSignalConfig":{"appId":"bc16f8f3-1e84-4079-b681-cdba4ddbaa27","allowLocalhostAsSecureOrigin":true},"logs":true,"serviceWorker":{"source":"/app/serviceworker.js","scope":"/"}},"build":{"hash":"r_pgVGMSPNcFaSd9-WkXX"}}',
 ) as Metadata;

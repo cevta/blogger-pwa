@@ -1,14 +1,14 @@
 {
-  "name": "Yuzu Tips",
+  "name": "Cevta",
   "id": "/",
-  "short_name": "Yuzu Tips",
-  "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
+  "short_name": "Cevta",
+  "description": "Cevta - Thủ Thuật Đa Nền Tảng",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
-  "start_url": "https://www.yuzutips.site/?utm_source=homescreen",
-  "scope": "https://www.yuzutips.site/",
+  "start_url": "https://www.cevta.site/?utm_source=homescreen",
+  "scope": "https://www.cevta.site/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#121212",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Yuzu Tips",
-      "short_name": "Yuzu Tips",
-      "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
-      "url": "https://www.yuzutips.site/search/label/News?utm_source=homescreen",
+      "name": "Cevta",
+      "short_name": "Cevta",
+      "description": "Cevta - Thủ Thuật Đa Nền Tảng",
+      "url": "https://www.cevta.site/search/label/News?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Yuzu Tips",
-      "short_name": "Yuzu Tips",
-      "description": "Blog Chia Sẻ Các Thủ Thuật Về Công Nghệ, Website, Facebook, Blogger... Và Rất Nhiều Thứ Khác.",
-      "url": "https://www.yuzutips.site/search/label/Shop?utm_source=homescreen",
+      "name": "Cevta",
+      "short_name": "Cevta",
+      "description": "Cevta - Thủ Thuật Đa Nền Tảng",
+      "url": "https://www.cevta.site/search/label/Shop?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
